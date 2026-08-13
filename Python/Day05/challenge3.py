@@ -1,4 +1,4 @@
-#challenge3
+#challenge3 - multiplication tables
 
 n = int(input("Enter a number: "))
 

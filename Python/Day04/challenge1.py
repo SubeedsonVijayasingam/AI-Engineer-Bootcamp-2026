@@ -1,4 +1,4 @@
-#challenge1
+#challenge1 - basic calculator
 
 n = int(input("First number: "))
 m = int(input("Second number: "))

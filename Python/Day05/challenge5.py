@@ -1,10 +1,10 @@
-#challenge5
+#challenge5 - Number analyzer
 
 n = int(input("Enter a number: "))
 print("==== NUMBER ANALYZER ====")
 
 #sum of all numbers
-
+ 
 total = 0
 for i in range(1, n+1):
     total +=i

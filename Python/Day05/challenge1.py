@@ -1,4 +1,4 @@
-#challenge1
+#challenge1 - basic for loop
 
 n = int(input("Enter a number: "))
 

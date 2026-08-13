@@ -1,4 +1,4 @@
-#challenge5
+#challenge5 - Student performance analyzer
 
 name = input("Name: ")
 age = int(input("Age: "))

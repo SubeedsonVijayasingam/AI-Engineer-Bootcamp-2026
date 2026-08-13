@@ -1,4 +1,4 @@
-#challenge2
+#challenge2 - sum of numbers
 
 n = int(input("Enter a number: "))
 

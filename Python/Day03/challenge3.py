@@ -1,4 +1,4 @@
-#challenge3
+#challenge3 - grade analyzer
 
 mark = int(input("Enter your mark: "))
 

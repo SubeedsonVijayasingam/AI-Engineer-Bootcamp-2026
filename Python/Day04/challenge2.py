@@ -1,4 +1,4 @@
-#challenge2
+#challenge2 - eligibility checker
 
 age = int(input("Enter age: "))
 cgpa = float(input("Enter CGPA: "))

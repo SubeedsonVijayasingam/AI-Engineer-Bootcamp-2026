@@ -1,4 +1,4 @@
-#challenge3
+#challenge3 - number analyzer
 
 n = int(input("Enter a number: "))
 

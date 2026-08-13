@@ -1,4 +1,4 @@
-#challenge4
+#challenge4 - count even numbers
 
 n = int(input("Enter a number: "))
 

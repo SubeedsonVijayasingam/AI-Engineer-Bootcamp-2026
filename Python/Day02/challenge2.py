@@ -1,4 +1,4 @@
-#challenge2
+#challenge2 - student details and data types
 
 name = input("Enter your name: ")
 age =int(input("Enter your age: "))
