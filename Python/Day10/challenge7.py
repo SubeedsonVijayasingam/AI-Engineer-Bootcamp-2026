@@ -8,3 +8,5 @@ def check_number(n):
     else:
         return "Negative"
 
+result = check_number(-5)
+print(result)
